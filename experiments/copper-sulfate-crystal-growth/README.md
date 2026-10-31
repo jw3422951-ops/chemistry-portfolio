@@ -16,6 +16,12 @@ The photograph records the recovered crystals' visible faces, edges, and differe
 
 I wanted to extend the work beyond the initial recrystallization stage and obtain larger crystals through continued growth. The later photograph documents the outcome of that continuation.
 
+## Adjustment and follow-up observations
+
+On the third day, the particles I had placed in the solution had dissolved. I then prepared a supersaturated solution to continue the crystal-growing experiment.
+
+I next checked the sample about ten days later. After that, I observed it every three days and noticed that the crystals were gradually growing. The day-28 photograph records the later result of this continued cultivation.
+
 ## My contribution
 
 I researched the relevant concepts, planned the experiment, and carried out the experimental work myself. This was part of my long-term, self-directed chemistry learning, undertaken in my own workspace.
