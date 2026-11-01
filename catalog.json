@@ -10,7 +10,13 @@
       "directory": "01-luminol-chemiluminescence",
       "photos": [],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg",
+        "assets/report-figure-02.jpg",
+        "assets/report-figure-03.jpg"
+      ]
     },
     {
       "order": 2,
@@ -20,7 +26,12 @@
       "videos": [
         "assets/video-01.mp4"
       ],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.png",
+        "assets/report-figure-02.png"
+      ]
     },
     {
       "order": 3,
@@ -45,7 +56,16 @@
         "assets/photo-16.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg",
+        "assets/report-figure-02.jpg",
+        "assets/report-figure-03.jpg",
+        "assets/report-figure-01.jpg",
+        "assets/report-figure-05.jpg",
+        "assets/report-figure-06.jpg"
+      ]
     },
     {
       "order": 4,
@@ -60,7 +80,14 @@
         "assets/photo-06.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg",
+        "assets/report-figure-02.jpg",
+        "assets/report-figure-03.jpg",
+        "assets/report-figure-04.jpg"
+      ]
     },
     {
       "order": 5,
@@ -70,7 +97,11 @@
         "assets/photo-01.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg"
+      ]
     },
     {
       "order": 6,
@@ -80,7 +111,11 @@
         "assets/photo-01.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.png"
+      ]
     },
     {
       "order": 7,
@@ -99,7 +134,13 @@
       "videos": [
         "assets/video-01.mp4"
       ],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg",
+        "assets/middle-stage-report.jpg",
+        "assets/end-stage-report.jpg"
+      ]
     },
     {
       "order": 8,
@@ -109,7 +150,11 @@
         "assets/photo-01.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg"
+      ]
     },
     {
       "order": 9,
@@ -119,7 +164,11 @@
         "assets/photo-01.jpg"
       ],
       "videos": [],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.jpg"
+      ]
     },
     {
       "order": 10,
@@ -131,7 +180,12 @@
       "videos": [
         "assets/video-01.mp4"
       ],
-      "report": "report.pdf"
+      "report": "report.pdf",
+      "readme": "README.md",
+      "report_figures": [
+        "assets/report-figure-01.png",
+        "assets/report-figure-02.png"
+      ]
     },
     {
       "order": 11,
