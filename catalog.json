@@ -1,6 +1,6 @@
 {
   "title": "Chemistry Portfolio",
-  "experiment_count": 48,
+  "experiment_count": 49,
   "reports_first": 10,
   "crystal_growth_order": 11,
   "experiments": [
@@ -166,8 +166,19 @@
     },
     {
       "order": 14,
+      "title": "Chemical Garden with Luminol",
+      "directory": "14-chemical-garden-with-luminol",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [
+        "assets/video-01.mp4"
+      ]
+    },
+    {
+      "order": 15,
       "title": "Sorbitol Film",
-      "directory": "14-sorbitol-film",
+      "directory": "15-sorbitol-film",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -177,18 +188,9 @@
       "videos": []
     },
     {
-      "order": 15,
-      "title": "Unidentified Observation",
-      "directory": "15-unidentified-observation",
-      "photos": [
-        "assets/photo-01.jpg"
-      ],
-      "videos": []
-    },
-    {
       "order": 16,
-      "title": "Calcium Chloride and Sodium Hydroxide",
-      "directory": "16-calcium-chloride-and-sodium-hydroxide",
+      "title": "Unidentified Observation",
+      "directory": "16-unidentified-observation",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -196,8 +198,8 @@
     },
     {
       "order": 17,
-      "title": "Cobalt Chloride and Sodium Hydroxide",
-      "directory": "17-cobalt-chloride-and-sodium-hydroxide",
+      "title": "Calcium Chloride and Sodium Hydroxide",
+      "directory": "17-calcium-chloride-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -205,8 +207,8 @@
     },
     {
       "order": 18,
-      "title": "Cobalt Chloride and Sodium Bicarbonate",
-      "directory": "18-cobalt-chloride-and-sodium-bicarbonate",
+      "title": "Cobalt Chloride and Sodium Hydroxide",
+      "directory": "18-cobalt-chloride-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -214,8 +216,17 @@
     },
     {
       "order": 19,
+      "title": "Cobalt Chloride and Sodium Bicarbonate",
+      "directory": "19-cobalt-chloride-and-sodium-bicarbonate",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 20,
       "title": "Starch Breakdown by Amylase",
-      "directory": "19-starch-breakdown-by-amylase",
+      "directory": "20-starch-breakdown-by-amylase",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -231,18 +242,9 @@
       "videos": []
     },
     {
-      "order": 20,
-      "title": "Lead Nitrate and Potassium Iodide",
-      "directory": "20-lead-nitrate-and-potassium-iodide",
-      "photos": [
-        "assets/photo-01.jpg"
-      ],
-      "videos": []
-    },
-    {
       "order": 21,
-      "title": "Copper Nitrate and Anhydrous Ethanol",
-      "directory": "21-copper-nitrate-and-anhydrous-ethanol",
+      "title": "Lead Nitrate and Potassium Iodide",
+      "directory": "21-lead-nitrate-and-potassium-iodide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -250,8 +252,8 @@
     },
     {
       "order": 22,
-      "title": "Preparation of Copper Nitrate",
-      "directory": "22-preparation-of-copper-nitrate",
+      "title": "Copper Nitrate and Anhydrous Ethanol",
+      "directory": "22-copper-nitrate-and-anhydrous-ethanol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -259,8 +261,8 @@
     },
     {
       "order": 23,
-      "title": "Sulfur Combustion in Oxygen",
-      "directory": "23-sulfur-combustion-in-oxygen",
+      "title": "Preparation of Copper Nitrate",
+      "directory": "23-preparation-of-copper-nitrate",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -268,8 +270,8 @@
     },
     {
       "order": 24,
-      "title": "Iron(II) Sulfate and Sodium Hydroxide",
-      "directory": "24-iron-ii-sulfate-and-sodium-hydroxide",
+      "title": "Sulfur Combustion in Oxygen",
+      "directory": "24-sulfur-combustion-in-oxygen",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -277,8 +279,8 @@
     },
     {
       "order": 25,
-      "title": "Copper Sulfate and Sodium Hydroxide",
-      "directory": "25-copper-sulfate-and-sodium-hydroxide",
+      "title": "Iron(II) Sulfate and Sodium Hydroxide",
+      "directory": "25-iron-ii-sulfate-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -286,8 +288,8 @@
     },
     {
       "order": 26,
-      "title": "Copper Sulfate and Sodium Bicarbonate",
-      "directory": "26-copper-sulfate-and-sodium-bicarbonate",
+      "title": "Copper Sulfate and Sodium Hydroxide",
+      "directory": "26-copper-sulfate-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -295,8 +297,8 @@
     },
     {
       "order": 27,
-      "title": "Iron and Copper Sulfate Displacement",
-      "directory": "27-iron-and-copper-sulfate-displacement",
+      "title": "Copper Sulfate and Sodium Bicarbonate",
+      "directory": "27-copper-sulfate-and-sodium-bicarbonate",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -304,8 +306,8 @@
     },
     {
       "order": 28,
-      "title": "Zinc and Copper Sulfate Displacement",
-      "directory": "28-zinc-and-copper-sulfate-displacement",
+      "title": "Iron and Copper Sulfate Displacement",
+      "directory": "28-iron-and-copper-sulfate-displacement",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -313,8 +315,8 @@
     },
     {
       "order": 29,
-      "title": "Preparation of Iodine",
-      "directory": "29-preparation-of-iodine",
+      "title": "Zinc and Copper Sulfate Displacement",
+      "directory": "29-zinc-and-copper-sulfate-displacement",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -322,8 +324,17 @@
     },
     {
       "order": 30,
+      "title": "Preparation of Iodine",
+      "directory": "30-preparation-of-iodine",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 31,
       "title": "Iodine Clock",
-      "directory": "30-iodine-clock",
+      "directory": "31-iodine-clock",
       "photos": [
         "assets/photo-01.png",
         "assets/photo-02.png",
@@ -335,18 +346,9 @@
       ]
     },
     {
-      "order": 31,
-      "title": "Pink Crystal Rain",
-      "directory": "31-pink-crystal-rain",
-      "photos": [
-        "assets/photo-01.jpg"
-      ],
-      "videos": []
-    },
-    {
       "order": 32,
-      "title": "Blue Crystal Rain",
-      "directory": "32-blue-crystal-rain",
+      "title": "Pink Crystal Rain",
+      "directory": "32-pink-crystal-rain",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -354,8 +356,8 @@
     },
     {
       "order": 33,
-      "title": "Phenolphthalein Acid-Base Indicator",
-      "directory": "33-phenolphthalein-acid-base-indicator",
+      "title": "Blue Crystal Rain",
+      "directory": "33-blue-crystal-rain",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -363,8 +365,8 @@
     },
     {
       "order": 34,
-      "title": "Acid-Base Neutralization",
-      "directory": "34-acid-base-neutralization",
+      "title": "Phenolphthalein Acid-Base Indicator",
+      "directory": "34-phenolphthalein-acid-base-indicator",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -372,8 +374,8 @@
     },
     {
       "order": 35,
-      "title": "Sodium and Ethanol",
-      "directory": "35-sodium-and-ethanol",
+      "title": "Acid-Base Neutralization",
+      "directory": "35-acid-base-neutralization",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -381,8 +383,8 @@
     },
     {
       "order": 36,
-      "title": "Sodium and Water",
-      "directory": "36-sodium-and-water",
+      "title": "Sodium and Ethanol",
+      "directory": "36-sodium-and-ethanol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -390,8 +392,8 @@
     },
     {
       "order": 37,
-      "title": "Sodium and Copper Sulfate Solution",
-      "directory": "37-sodium-and-copper-sulfate-solution",
+      "title": "Sodium and Water",
+      "directory": "37-sodium-and-water",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -399,8 +401,8 @@
     },
     {
       "order": 38,
-      "title": "Sodium Flame Test",
-      "directory": "38-sodium-flame-test",
+      "title": "Sodium and Copper Sulfate Solution",
+      "directory": "38-sodium-and-copper-sulfate-solution",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -408,8 +410,8 @@
     },
     {
       "order": 39,
-      "title": "Sodium-Potassium Alloy and Water",
-      "directory": "39-sodium-potassium-alloy-and-water",
+      "title": "Sodium Flame Test",
+      "directory": "39-sodium-flame-test",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -417,8 +419,8 @@
     },
     {
       "order": 40,
-      "title": "Changes in Iron Oxidation State",
-      "directory": "40-changes-in-iron-oxidation-state",
+      "title": "Sodium-Potassium Alloy and Water",
+      "directory": "40-sodium-potassium-alloy-and-water",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -426,8 +428,8 @@
     },
     {
       "order": 41,
-      "title": "Iron Combustion / Sparks",
-      "directory": "41-iron-combustion-sparks",
+      "title": "Changes in Iron Oxidation State",
+      "directory": "41-changes-in-iron-oxidation-state",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -435,8 +437,8 @@
     },
     {
       "order": 42,
-      "title": "Copper and Aqueous Ammonia",
-      "directory": "42-copper-and-aqueous-ammonia",
+      "title": "Iron Combustion / Sparks",
+      "directory": "42-iron-combustion-sparks",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -444,8 +446,8 @@
     },
     {
       "order": 43,
-      "title": "Copper Flame Test",
-      "directory": "43-copper-flame-test",
+      "title": "Copper and Aqueous Ammonia",
+      "directory": "43-copper-and-aqueous-ammonia",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -453,8 +455,17 @@
     },
     {
       "order": 44,
+      "title": "Copper Flame Test",
+      "directory": "44-copper-flame-test",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 45,
       "title": "Luminescent Copper-Iodide Complexes",
-      "directory": "44-luminescent-copper-iodide-complexes",
+      "directory": "45-luminescent-copper-iodide-complexes",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg"
@@ -462,18 +473,9 @@
       "videos": []
     },
     {
-      "order": 45,
-      "title": "Lithium Flame Test",
-      "directory": "45-lithium-flame-test",
-      "photos": [
-        "assets/photo-01.jpg"
-      ],
-      "videos": []
-    },
-    {
       "order": 46,
-      "title": "Zinc and Nitric Acid",
-      "directory": "46-zinc-and-nitric-acid",
+      "title": "Lithium Flame Test",
+      "directory": "46-lithium-flame-test",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -481,8 +483,8 @@
     },
     {
       "order": 47,
-      "title": "Zinc Combustion",
-      "directory": "47-zinc-combustion",
+      "title": "Zinc and Nitric Acid",
+      "directory": "47-zinc-and-nitric-acid",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -490,8 +492,17 @@
     },
     {
       "order": 48,
+      "title": "Zinc Combustion",
+      "directory": "48-zinc-combustion",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 49,
       "title": "Magnesium Combustion",
-      "directory": "48-magnesium-combustion",
+      "directory": "49-magnesium-combustion",
       "photos": [
         "assets/photo-01.jpg"
       ],
