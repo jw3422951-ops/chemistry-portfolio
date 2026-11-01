@@ -206,7 +206,14 @@
       "photos": [
         "assets/photo-01.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "presentation_images": [
+        {
+          "path": "assets/photo-01-background-edited.png",
+          "source": "assets/photo-01.jpg",
+          "edit": "AI-assisted background replacement for presentation; original photograph retained."
+        }
+      ]
     },
     {
       "order": 13,
