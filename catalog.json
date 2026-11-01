@@ -1,0 +1,501 @@
+{
+  "title": "Chemistry Portfolio",
+  "experiment_count": 48,
+  "reports_first": 10,
+  "crystal_growth_order": 11,
+  "experiments": [
+    {
+      "order": 1,
+      "title": "Chemiluminescence of Luminol",
+      "directory": "01-luminol-chemiluminescence",
+      "photos": [],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 2,
+      "title": "Chemical Garden",
+      "directory": "02-chemical-garden",
+      "photos": [],
+      "videos": [
+        "assets/video-01.mp4"
+      ],
+      "report": "report.pdf"
+    },
+    {
+      "order": 3,
+      "title": "Maillard Reaction in a Glucose-Glycine System",
+      "directory": "03-maillard-reaction-glucose-glycine",
+      "photos": [
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg",
+        "assets/photo-03.jpg",
+        "assets/photo-04.jpg",
+        "assets/photo-05.jpg",
+        "assets/photo-06.jpg",
+        "assets/photo-07.jpg",
+        "assets/photo-08.jpg",
+        "assets/photo-09.jpg",
+        "assets/photo-10.jpg",
+        "assets/photo-11.jpg",
+        "assets/photo-12.jpg",
+        "assets/photo-13.jpg",
+        "assets/photo-14.jpg",
+        "assets/photo-15.jpg",
+        "assets/photo-16.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 4,
+      "title": "Detection of Peptides Using the Biuret Test",
+      "directory": "04-biuret-test-peptides",
+      "photos": [
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg",
+        "assets/photo-03.jpg",
+        "assets/photo-04.jpg",
+        "assets/photo-05.jpg",
+        "assets/photo-06.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 5,
+      "title": "Formation of Turnbull's Blue",
+      "directory": "05-turnbulls-blue",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 6,
+      "title": "Magnesium with Water Using Phenolphthalein",
+      "directory": "06-magnesium-water-phenolphthalein",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 7,
+      "title": "Reduction of Methylene Blue by Glucose",
+      "directory": "07-blue-bottle-methylene-blue-glucose",
+      "photos": [
+        "assets/end-stage-report.jpg",
+        "assets/middle-stage-report.jpg",
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg",
+        "assets/photo-03.jpg",
+        "assets/photo-04.jpg",
+        "assets/photo-05.jpg",
+        "assets/photo-06.jpg"
+      ],
+      "videos": [
+        "assets/video-01.mp4"
+      ],
+      "report": "report.pdf"
+    },
+    {
+      "order": 8,
+      "title": "Reduction of Copper(II) Hydroxide by Glucose",
+      "directory": "08-glucose-copper-hydroxide-reduction",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 9,
+      "title": "Copper(II) and Ammonia Complex Formation",
+      "directory": "09-copper-ammonia-complex",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [],
+      "report": "report.pdf"
+    },
+    {
+      "order": 10,
+      "title": "Crystallization of Sodium Acetate - Hot Ice",
+      "directory": "10-sodium-acetate-hot-ice",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": [
+        "assets/video-01.mp4"
+      ],
+      "report": "report.pdf"
+    },
+    {
+      "order": 11,
+      "title": "Copper Sulfate Recrystallization and Crystal Growth",
+      "directory": "11-copper-sulfate-crystal-growth",
+      "photos": [
+        "assets/beaker-detail.jpg",
+        "assets/collected-material.jpg",
+        "assets/day-28-crystals.jpg",
+        "assets/filtration.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 12,
+      "title": "Manganese(VII) Oxide and Ethanol",
+      "directory": "12-manganese-vii-oxide-and-ethanol",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 13,
+      "title": "Chemical Traffic Light",
+      "directory": "13-chemical-traffic-light",
+      "photos": [],
+      "videos": [
+        "assets/video-01.mp4",
+        "assets/video-02.mp4"
+      ]
+    },
+    {
+      "order": 14,
+      "title": "Sorbitol Film",
+      "directory": "14-sorbitol-film",
+      "photos": [
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg",
+        "assets/photo-03.jpg",
+        "assets/photo-04.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 15,
+      "title": "Unidentified Observation",
+      "directory": "15-unidentified-observation",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 16,
+      "title": "Calcium Chloride and Sodium Hydroxide",
+      "directory": "16-calcium-chloride-and-sodium-hydroxide",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 17,
+      "title": "Cobalt Chloride and Sodium Hydroxide",
+      "directory": "17-cobalt-chloride-and-sodium-hydroxide",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 18,
+      "title": "Cobalt Chloride and Sodium Bicarbonate",
+      "directory": "18-cobalt-chloride-and-sodium-bicarbonate",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 19,
+      "title": "Starch Breakdown by Amylase",
+      "directory": "19-starch-breakdown-by-amylase",
+      "photos": [
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg",
+        "assets/photo-03.jpg",
+        "assets/photo-04.jpg",
+        "assets/photo-05.jpg",
+        "assets/photo-06.jpg",
+        "assets/photo-07.jpg",
+        "assets/photo-08.jpg",
+        "assets/photo-09.jpg",
+        "assets/photo-10.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 20,
+      "title": "Lead Nitrate and Potassium Iodide",
+      "directory": "20-lead-nitrate-and-potassium-iodide",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 21,
+      "title": "Copper Nitrate and Anhydrous Ethanol",
+      "directory": "21-copper-nitrate-and-anhydrous-ethanol",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 22,
+      "title": "Preparation of Copper Nitrate",
+      "directory": "22-preparation-of-copper-nitrate",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 23,
+      "title": "Sulfur Combustion in Oxygen",
+      "directory": "23-sulfur-combustion-in-oxygen",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 24,
+      "title": "Iron(II) Sulfate and Sodium Hydroxide",
+      "directory": "24-iron-ii-sulfate-and-sodium-hydroxide",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 25,
+      "title": "Copper Sulfate and Sodium Hydroxide",
+      "directory": "25-copper-sulfate-and-sodium-hydroxide",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 26,
+      "title": "Copper Sulfate and Sodium Bicarbonate",
+      "directory": "26-copper-sulfate-and-sodium-bicarbonate",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 27,
+      "title": "Iron and Copper Sulfate Displacement",
+      "directory": "27-iron-and-copper-sulfate-displacement",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 28,
+      "title": "Zinc and Copper Sulfate Displacement",
+      "directory": "28-zinc-and-copper-sulfate-displacement",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 29,
+      "title": "Preparation of Iodine",
+      "directory": "29-preparation-of-iodine",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 30,
+      "title": "Iodine Clock",
+      "directory": "30-iodine-clock",
+      "photos": [
+        "assets/photo-01.png",
+        "assets/photo-02.png",
+        "assets/photo-03.png",
+        "assets/photo-04.png"
+      ],
+      "videos": [
+        "assets/video-01.mp4"
+      ]
+    },
+    {
+      "order": 31,
+      "title": "Pink Crystal Rain",
+      "directory": "31-pink-crystal-rain",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 32,
+      "title": "Blue Crystal Rain",
+      "directory": "32-blue-crystal-rain",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 33,
+      "title": "Phenolphthalein Acid-Base Indicator",
+      "directory": "33-phenolphthalein-acid-base-indicator",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 34,
+      "title": "Acid-Base Neutralization",
+      "directory": "34-acid-base-neutralization",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 35,
+      "title": "Sodium and Ethanol",
+      "directory": "35-sodium-and-ethanol",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 36,
+      "title": "Sodium and Water",
+      "directory": "36-sodium-and-water",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 37,
+      "title": "Sodium and Copper Sulfate Solution",
+      "directory": "37-sodium-and-copper-sulfate-solution",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 38,
+      "title": "Sodium Flame Test",
+      "directory": "38-sodium-flame-test",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 39,
+      "title": "Sodium-Potassium Alloy and Water",
+      "directory": "39-sodium-potassium-alloy-and-water",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 40,
+      "title": "Changes in Iron Oxidation State",
+      "directory": "40-changes-in-iron-oxidation-state",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 41,
+      "title": "Iron Combustion / Sparks",
+      "directory": "41-iron-combustion-sparks",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 42,
+      "title": "Copper and Aqueous Ammonia",
+      "directory": "42-copper-and-aqueous-ammonia",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 43,
+      "title": "Copper Flame Test",
+      "directory": "43-copper-flame-test",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 44,
+      "title": "Luminescent Copper-Iodide Complexes",
+      "directory": "44-luminescent-copper-iodide-complexes",
+      "photos": [
+        "assets/photo-01.jpg",
+        "assets/photo-02.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 45,
+      "title": "Lithium Flame Test",
+      "directory": "45-lithium-flame-test",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 46,
+      "title": "Zinc and Nitric Acid",
+      "directory": "46-zinc-and-nitric-acid",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 47,
+      "title": "Zinc Combustion",
+      "directory": "47-zinc-combustion",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "order": 48,
+      "title": "Magnesium Combustion",
+      "directory": "48-magnesium-combustion",
+      "photos": [
+        "assets/photo-01.jpg"
+      ],
+      "videos": []
+    }
+  ]
+}

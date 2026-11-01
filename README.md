@@ -6,13 +6,13 @@ This portfolio documents my long-term, self-directed study of chemistry. I resea
 
 ## Featured experiment
 
-### [Copper Sulfate Recrystallization and Crystal Growth](experiments/copper-sulfate-crystal-growth)
+### [Copper Sulfate Recrystallization and Crystal Growth](11-copper-sulfate-crystal-growth)
 
 An experiment that developed from recrystallization into an attempt to grow larger crystals, with a result photograph taken after 28 days of cultivation.
 
-<a href="experiments/copper-sulfate-crystal-growth"><img src="experiments/copper-sulfate-crystal-growth/assets/day-28-crystals.jpg" alt="Four main blue copper sulfate crystals photographed after 28 days of cultivation" width="380"></a>
+<a href="11-copper-sulfate-crystal-growth"><img src="11-copper-sulfate-crystal-growth/assets/day-28-crystals.jpg" alt="Four main blue copper sulfate crystals photographed after 28 days of cultivation" width="380"></a>
 
-[Explore the experiment and photographs](experiments/copper-sulfate-crystal-growth)
+[Explore the experiment and photographs](11-copper-sulfate-crystal-growth)
 
 ## About this collection
 
