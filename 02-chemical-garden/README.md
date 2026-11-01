@@ -45,6 +45,12 @@ The blue “cloud” formed at the beginning, then dropped to the bottom. After 
 - The liquid flows out of the membrane and reacts with the solution to build the hollow tubes
 - It is vulnerable to mixing or shifting of the glass because the flow of liquid makes the chemical reaction that bends the tubes together.
 
+## Experiment video
+
+- [Watch the experiment](https://jw3422951-ops.github.io/chemistry-portfolio/#experiment-02-video-01) · [Download original](assets/video-01.mp4)
+
+The playback page includes video controls and fullscreen viewing.
+
 ---
 
 [View the original PDF](report.pdf) · [Back to all experiments](../)

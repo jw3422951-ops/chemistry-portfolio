@@ -31,6 +31,12 @@ Glucose, methylene blue solution, sodium hydroxide, distilled water.
 
 In an alkaline solution, glucose transfers electrons to methylene blue(C16H18N3S +H2O +2e – C16H19N3S+OH), reducing it to a colorless state. Shaking dissolves oxygen from the air, which reoxidizes it and restores the blue color (C6H12O6 +3OH– C6H11O7 +2H₂O + 2e). Methylene blue acts as the redox mediator, transferring electrons from glucose to oxygen.
 
+## Experiment video
+
+- [Watch the experiment](https://jw3422951-ops.github.io/chemistry-portfolio/#experiment-07-video-01) · [Download original](assets/video-01.mp4)
+
+The playback page includes video controls and fullscreen viewing.
+
 ---
 
 [View the original PDF](report.pdf) · [Back to all experiments](../)

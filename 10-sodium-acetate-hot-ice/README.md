@@ -34,6 +34,12 @@ White non-transparent crystal is formed as the liquid poured on the seed.
 
 Once the sodium acetate trihydrate is heated, the solubility increases, in the experiment it completely dissolved at 80 degree form the solution, during the cooling it shouldn't be any disturbance because it may crystallize, due to it is supersaturated, it is likely crystallize or form solid particles, but in this case it is metastable which in a rest state. Nucleation reactions are necessary because we need a first seed particle cluster to ensure the crystallization of a liquid. When particles are added to the lattice, they release energy, causing each cluster to form a solid surface. During this process, a significant amount of energy is lost, and the liquid re-enters it. However, only clusters past a certain size can grow steadily and crystallize. The crystallization process and preparation require a clean container because the nucleation of sodium acetate requires a lot of energy. If there are residues in the container, it will disrupt this stability. The poured solution will blend with the existing crystals and form new crystals. During this process, it releases the latent heat energy from the supercooled liquid. The contact surfaces of the introduced liquids are different, and they grow randomly to form the final product.
 
+## Experiment video
+
+- [Watch the experiment](https://jw3422951-ops.github.io/chemistry-portfolio/#experiment-10-video-01) · [Download original](assets/video-01.mp4)
+
+The playback page includes video controls and fullscreen viewing.
+
 ---
 
 [View the original PDF](report.pdf) · [Back to all experiments](../)
