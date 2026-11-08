@@ -1,6 +1,6 @@
 # Experiment Index
 
-[Portfolio overview](../README.md) · [Combined report (PDF)](../source-documents/chemistry-project-series-report.pdf) · [Video gallery](https://jw3422951-ops.github.io/chemistry-portfolio/)
+[Portfolio overview](../README.md) · [Safety](../README.md#safety) · [Combined report (PDF)](../source-documents/chemistry-project-series-report.pdf) · [Video gallery](https://jw3422951-ops.github.io/chemistry-portfolio/)
 
 ## Experiment reports
 

@@ -22,4 +22,8 @@ I extended the recrystallization experiment into a 28-day crystal growth study. 
 - [11 · 28-day crystal growth](experiments/11-copper-sulfate-crystal-growth)
 - [12–49 · Photo and video records](experiments/README.md#photo-and-video-records)
 
+## Safety
+
+I carried out these experiments at home in small quantities. I wore safety goggles for every experiment and gloves when handling strong acids, reactive metals, and heavy-metal salts.
+
 [Return to my GitHub profile](https://github.com/jw3422951-ops)
