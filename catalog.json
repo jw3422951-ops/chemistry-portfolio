@@ -7,7 +7,7 @@
     {
       "order": 1,
       "title": "Chemiluminescence of Luminol",
-      "directory": "01-luminol-chemiluminescence",
+      "directory": "experiments/01-luminol-chemiluminescence",
       "photos": [],
       "videos": [],
       "report": "report.pdf",
@@ -21,7 +21,7 @@
     {
       "order": 2,
       "title": "Chemical Garden",
-      "directory": "02-chemical-garden",
+      "directory": "experiments/02-chemical-garden",
       "photos": [],
       "videos": [
         "assets/video-01.mp4"
@@ -36,7 +36,7 @@
     {
       "order": 3,
       "title": "Maillard Reaction in a Glucose-Glycine System",
-      "directory": "03-maillard-reaction-glucose-glycine",
+      "directory": "experiments/03-maillard-reaction-glucose-glycine",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -70,7 +70,7 @@
     {
       "order": 4,
       "title": "Detection of Peptides Using the Biuret Test",
-      "directory": "04-biuret-test-peptides",
+      "directory": "experiments/04-biuret-test-peptides",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -92,7 +92,7 @@
     {
       "order": 5,
       "title": "Formation of Turnbull's Blue",
-      "directory": "05-turnbulls-blue",
+      "directory": "experiments/05-turnbulls-blue",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -106,7 +106,7 @@
     {
       "order": 6,
       "title": "Magnesium with Water Using Phenolphthalein",
-      "directory": "06-magnesium-water-phenolphthalein",
+      "directory": "experiments/06-magnesium-water-phenolphthalein",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -120,7 +120,7 @@
     {
       "order": 7,
       "title": "Reduction of Methylene Blue by Glucose",
-      "directory": "07-blue-bottle-methylene-blue-glucose",
+      "directory": "experiments/07-blue-bottle-methylene-blue-glucose",
       "photos": [
         "assets/end-stage-report.jpg",
         "assets/middle-stage-report.jpg",
@@ -145,7 +145,7 @@
     {
       "order": 8,
       "title": "Reduction of Copper(II) Hydroxide by Glucose",
-      "directory": "08-glucose-copper-hydroxide-reduction",
+      "directory": "experiments/08-glucose-copper-hydroxide-reduction",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -159,7 +159,7 @@
     {
       "order": 9,
       "title": "Copper(II) and Ammonia Complex Formation",
-      "directory": "09-copper-ammonia-complex",
+      "directory": "experiments/09-copper-ammonia-complex",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -173,7 +173,7 @@
     {
       "order": 10,
       "title": "Crystallization of Sodium Acetate - Hot Ice",
-      "directory": "10-sodium-acetate-hot-ice",
+      "directory": "experiments/10-sodium-acetate-hot-ice",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -190,7 +190,7 @@
     {
       "order": 11,
       "title": "Copper Sulfate Recrystallization and Crystal Growth",
-      "directory": "11-copper-sulfate-crystal-growth",
+      "directory": "experiments/11-copper-sulfate-crystal-growth",
       "photos": [
         "assets/beaker-detail.jpg",
         "assets/collected-material.jpg",
@@ -202,7 +202,7 @@
     {
       "order": 12,
       "title": "Manganese(VII) Oxide and Ethanol",
-      "directory": "12-manganese-vii-oxide-and-ethanol",
+      "directory": "experiments/12-manganese-vii-oxide-and-ethanol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -218,7 +218,7 @@
     {
       "order": 13,
       "title": "Chemical Traffic Light",
-      "directory": "13-chemical-traffic-light",
+      "directory": "experiments/13-chemical-traffic-light",
       "photos": [],
       "videos": [
         "assets/video-01.mp4",
@@ -228,7 +228,7 @@
     {
       "order": 14,
       "title": "Chemical Garden with Luminol",
-      "directory": "14-chemical-garden-with-luminol",
+      "directory": "experiments/14-chemical-garden-with-luminol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -239,7 +239,7 @@
     {
       "order": 15,
       "title": "Sorbitol Film",
-      "directory": "15-sorbitol-film",
+      "directory": "experiments/15-sorbitol-film",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -251,7 +251,7 @@
     {
       "order": 16,
       "title": "Unidentified Observation",
-      "directory": "16-unidentified-observation",
+      "directory": "experiments/16-unidentified-observation",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -260,7 +260,7 @@
     {
       "order": 17,
       "title": "Calcium Chloride and Sodium Hydroxide",
-      "directory": "17-calcium-chloride-and-sodium-hydroxide",
+      "directory": "experiments/17-calcium-chloride-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -269,7 +269,7 @@
     {
       "order": 18,
       "title": "Cobalt Chloride and Sodium Hydroxide",
-      "directory": "18-cobalt-chloride-and-sodium-hydroxide",
+      "directory": "experiments/18-cobalt-chloride-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -278,7 +278,7 @@
     {
       "order": 19,
       "title": "Cobalt Chloride and Sodium Bicarbonate",
-      "directory": "19-cobalt-chloride-and-sodium-bicarbonate",
+      "directory": "experiments/19-cobalt-chloride-and-sodium-bicarbonate",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -287,7 +287,7 @@
     {
       "order": 20,
       "title": "Starch Breakdown by Amylase",
-      "directory": "20-starch-breakdown-by-amylase",
+      "directory": "experiments/20-starch-breakdown-by-amylase",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg",
@@ -305,7 +305,7 @@
     {
       "order": 21,
       "title": "Lead Nitrate and Potassium Iodide",
-      "directory": "21-lead-nitrate-and-potassium-iodide",
+      "directory": "experiments/21-lead-nitrate-and-potassium-iodide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -314,7 +314,7 @@
     {
       "order": 22,
       "title": "Copper Nitrate and Anhydrous Ethanol",
-      "directory": "22-copper-nitrate-and-anhydrous-ethanol",
+      "directory": "experiments/22-copper-nitrate-and-anhydrous-ethanol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -323,7 +323,7 @@
     {
       "order": 23,
       "title": "Preparation of Copper Nitrate",
-      "directory": "23-preparation-of-copper-nitrate",
+      "directory": "experiments/23-preparation-of-copper-nitrate",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -332,7 +332,7 @@
     {
       "order": 24,
       "title": "Sulfur Combustion in Oxygen",
-      "directory": "24-sulfur-combustion-in-oxygen",
+      "directory": "experiments/24-sulfur-combustion-in-oxygen",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -341,7 +341,7 @@
     {
       "order": 25,
       "title": "Iron(II) Sulfate and Sodium Hydroxide",
-      "directory": "25-iron-ii-sulfate-and-sodium-hydroxide",
+      "directory": "experiments/25-iron-ii-sulfate-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -350,7 +350,7 @@
     {
       "order": 26,
       "title": "Copper Sulfate and Sodium Hydroxide",
-      "directory": "26-copper-sulfate-and-sodium-hydroxide",
+      "directory": "experiments/26-copper-sulfate-and-sodium-hydroxide",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -359,7 +359,7 @@
     {
       "order": 27,
       "title": "Copper Sulfate and Sodium Bicarbonate",
-      "directory": "27-copper-sulfate-and-sodium-bicarbonate",
+      "directory": "experiments/27-copper-sulfate-and-sodium-bicarbonate",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -368,7 +368,7 @@
     {
       "order": 28,
       "title": "Iron and Copper Sulfate Displacement",
-      "directory": "28-iron-and-copper-sulfate-displacement",
+      "directory": "experiments/28-iron-and-copper-sulfate-displacement",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -377,7 +377,7 @@
     {
       "order": 29,
       "title": "Zinc and Copper Sulfate Displacement",
-      "directory": "29-zinc-and-copper-sulfate-displacement",
+      "directory": "experiments/29-zinc-and-copper-sulfate-displacement",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -386,7 +386,7 @@
     {
       "order": 30,
       "title": "Preparation of Iodine",
-      "directory": "30-preparation-of-iodine",
+      "directory": "experiments/30-preparation-of-iodine",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -395,7 +395,7 @@
     {
       "order": 31,
       "title": "Iodine Clock",
-      "directory": "31-iodine-clock",
+      "directory": "experiments/31-iodine-clock",
       "photos": [
         "assets/photo-01.png",
         "assets/photo-02.png",
@@ -409,7 +409,7 @@
     {
       "order": 32,
       "title": "Pink Crystal Rain",
-      "directory": "32-pink-crystal-rain",
+      "directory": "experiments/32-pink-crystal-rain",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -418,7 +418,7 @@
     {
       "order": 33,
       "title": "Blue Crystal Rain",
-      "directory": "33-blue-crystal-rain",
+      "directory": "experiments/33-blue-crystal-rain",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -427,7 +427,7 @@
     {
       "order": 34,
       "title": "Phenolphthalein Acid-Base Indicator",
-      "directory": "34-phenolphthalein-acid-base-indicator",
+      "directory": "experiments/34-phenolphthalein-acid-base-indicator",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -436,7 +436,7 @@
     {
       "order": 35,
       "title": "Acid-Base Neutralization",
-      "directory": "35-acid-base-neutralization",
+      "directory": "experiments/35-acid-base-neutralization",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -445,7 +445,7 @@
     {
       "order": 36,
       "title": "Sodium and Ethanol",
-      "directory": "36-sodium-and-ethanol",
+      "directory": "experiments/36-sodium-and-ethanol",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -454,7 +454,7 @@
     {
       "order": 37,
       "title": "Sodium and Water",
-      "directory": "37-sodium-and-water",
+      "directory": "experiments/37-sodium-and-water",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -463,7 +463,7 @@
     {
       "order": 38,
       "title": "Sodium and Copper Sulfate Solution",
-      "directory": "38-sodium-and-copper-sulfate-solution",
+      "directory": "experiments/38-sodium-and-copper-sulfate-solution",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -472,7 +472,7 @@
     {
       "order": 39,
       "title": "Sodium Flame Test",
-      "directory": "39-sodium-flame-test",
+      "directory": "experiments/39-sodium-flame-test",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -481,7 +481,7 @@
     {
       "order": 40,
       "title": "Sodium-Potassium Alloy and Water",
-      "directory": "40-sodium-potassium-alloy-and-water",
+      "directory": "experiments/40-sodium-potassium-alloy-and-water",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -490,7 +490,7 @@
     {
       "order": 41,
       "title": "Changes in Iron Oxidation State",
-      "directory": "41-changes-in-iron-oxidation-state",
+      "directory": "experiments/41-changes-in-iron-oxidation-state",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -499,7 +499,7 @@
     {
       "order": 42,
       "title": "Iron Combustion / Sparks",
-      "directory": "42-iron-combustion-sparks",
+      "directory": "experiments/42-iron-combustion-sparks",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -508,7 +508,7 @@
     {
       "order": 43,
       "title": "Copper and Aqueous Ammonia",
-      "directory": "43-copper-and-aqueous-ammonia",
+      "directory": "experiments/43-copper-and-aqueous-ammonia",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -517,7 +517,7 @@
     {
       "order": 44,
       "title": "Copper Flame Test",
-      "directory": "44-copper-flame-test",
+      "directory": "experiments/44-copper-flame-test",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -526,7 +526,7 @@
     {
       "order": 45,
       "title": "Luminescent Copper-Iodide Complexes",
-      "directory": "45-luminescent-copper-iodide-complexes",
+      "directory": "experiments/45-luminescent-copper-iodide-complexes",
       "photos": [
         "assets/photo-01.jpg",
         "assets/photo-02.jpg"
@@ -536,7 +536,7 @@
     {
       "order": 46,
       "title": "Lithium Flame Test",
-      "directory": "46-lithium-flame-test",
+      "directory": "experiments/46-lithium-flame-test",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -545,7 +545,7 @@
     {
       "order": 47,
       "title": "Zinc and Nitric Acid",
-      "directory": "47-zinc-and-nitric-acid",
+      "directory": "experiments/47-zinc-and-nitric-acid",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -554,7 +554,7 @@
     {
       "order": 48,
       "title": "Zinc Combustion",
-      "directory": "48-zinc-combustion",
+      "directory": "experiments/48-zinc-combustion",
       "photos": [
         "assets/photo-01.jpg"
       ],
@@ -563,7 +563,7 @@
     {
       "order": 49,
       "title": "Magnesium Combustion",
-      "directory": "49-magnesium-combustion",
+      "directory": "experiments/49-magnesium-combustion",
       "photos": [
         "assets/photo-01.jpg"
       ],

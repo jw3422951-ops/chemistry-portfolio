@@ -50,4 +50,4 @@ These three photographs belong to the same experiment. They document different a
 
 ---
 
-[Back to the Chemistry Portfolio](../README.md) · [GitHub profile](https://github.com/jw3422951-ops)
+[Back to the experiment index](../README.md) · [GitHub profile](https://github.com/jw3422951-ops)
