@@ -1,14 +1,14 @@
 # Chemistry Portfolio
 
-## Overview
-
-I research, plan, and carry out these experiments as part of my independent study of chemistry. The portfolio contains **49 experiment entries**, including **10 with written reports** and **7 video recordings**. Topics include crystal growth, reaction kinetics, qualitative tests, and flame colors.
+I research the chemistry behind each experiment, plan and carry it out, and record what I observe. This independent study portfolio contains **49 entries**, with **10 written reports** and **7 video recordings**. Topics range from crystal growth and reaction kinetics to qualitative tests and flame colors.
 
 [Experiment reports](#experiment-reports) · [28-day crystal growth](#11-copper-sulfate-recrystallization-and-crystal-growth) · [Photo and video records](#photo-and-video-records)
 
 [Combined report (PDF)](source-documents/chemistry-project-series-report.pdf) · [Video gallery](https://jw3422951-ops.github.io/chemistry-portfolio/)
 
 ## Experiment reports
+
+Each experiment page presents the write-up and its available figures. The PDF links open the individual reports.
 
 1. [Chemiluminescence of Luminol](01-luminol-chemiluminescence) · [PDF](01-luminol-chemiluminescence/report.pdf)
 2. [Chemical Garden](02-chemical-garden) · [PDF](02-chemical-garden/report.pdf)
